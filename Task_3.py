@@ -18,7 +18,7 @@ tutor – интервалы присутствия учителя
 
 import intervals
 
-# pip install python-intervals
+# pip install intervals
 
 def check_in_range(timestump, ranges):
     for timedelta in ranges:
